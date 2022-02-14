@@ -1,0 +1,468 @@
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.exe
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.deps.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.runtimeconfig.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ref\CMSProjectPL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\scopedcss\bundle\CMSProjectPL.styles.css
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\ref\CMSProjectPL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectBL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectDAL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectBL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectDAL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\appsettings.json
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.staticwebassets.runtime.json
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.exe
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.deps.json
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.runtimeconfig.json
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ref\CMSProjectPL.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectPL.pdb
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Humanizer.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\MessagePack.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Common.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectBL.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectDAL.dll
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectBL.pdb
+D:\Project\CMSProject\CMSProjectPL\bin\Debug\net6.0\CMSProjectDAL.pdb
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.csproj.AssemblyReference.cache
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.AssemblyInfoInputs.cache
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.AssemblyInfo.cs
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.csproj.CoreCompileInputs.cache
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.RazorAssemblyInfo.cache
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.RazorAssemblyInfo.cs
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\scopedcss\bundle\CMSProjectPL.styles.css
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.csproj.CopyComplete
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.dll
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\ref\CMSProjectPL.dll
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.pdb
+D:\Project\CMSProject\CMSProjectPL\obj\Debug\net6.0\CMSProjectPL.genruntimeconfig.cache

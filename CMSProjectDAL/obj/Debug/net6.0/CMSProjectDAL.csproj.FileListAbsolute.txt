@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\CMSProjectDAL.deps.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\CMSProjectDAL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\ref\CMSProjectDAL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\CMSProjectDAL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\ref\CMSProjectDAL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.pdb
+D:\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\CMSProjectDAL.deps.json
+D:\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\CMSProjectDAL.dll
+D:\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\ref\CMSProjectDAL.dll
+D:\Project\CMSProject\CMSProjectDAL\bin\Debug\net6.0\CMSProjectDAL.pdb
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.csproj.AssemblyReference.cache
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.AssemblyInfoInputs.cache
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.AssemblyInfo.cs
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.csproj.CoreCompileInputs.cache
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.dll
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\ref\CMSProjectDAL.dll
+D:\Project\CMSProject\CMSProjectDAL\obj\Debug\net6.0\CMSProjectDAL.pdb

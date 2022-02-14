@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectBL.deps.json
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectBL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\ref\CMSProjectBL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectBL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectDAL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectDAL.pdb
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\ref\CMSProjectBL.dll
+C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.pdb
+D:\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectBL.deps.json
+D:\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectBL.dll
+D:\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\ref\CMSProjectBL.dll
+D:\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectBL.pdb
+D:\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectDAL.dll
+D:\Project\CMSProject\CMSProjectBL\bin\Debug\net6.0\CMSProjectDAL.pdb
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.csproj.AssemblyReference.cache
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.AssemblyInfoInputs.cache
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.AssemblyInfo.cs
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.csproj.CoreCompileInputs.cache
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.csproj.CopyComplete
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.dll
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\ref\CMSProjectBL.dll
+D:\Project\CMSProject\CMSProjectBL\obj\Debug\net6.0\CMSProjectBL.pdb

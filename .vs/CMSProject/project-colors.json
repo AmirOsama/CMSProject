@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7558487f-7825-41a4-a468-c776e288bc8a": {
+      "ProjectGuid": "7558487f-7825-41a4-a468-c776e288bc8a",
+      "DisplayName": "CMSProjectPL",
+      "ColorIndex": 0
+    },
+    "3ffc7b5b-ca20-49e4-a0be-69c315a2b44e": {
+      "ProjectGuid": "3ffc7b5b-ca20-49e4-a0be-69c315a2b44e",
+      "DisplayName": "CMSProjectDAL",
+      "ColorIndex": 1
+    },
+    "bc8ac8b9-6cc6-4f7d-b1ce-9a71be6a564b": {
+      "ProjectGuid": "bc8ac8b9-6cc6-4f7d-b1ce-9a71be6a564b",
+      "DisplayName": "CMSProjectBL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
