@@ -15,8 +15,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\Sharp_Academy\Ahmed Elgendy\Project\CMSProject\CMSProjectPL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Views/Department/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+[C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Areas/WebSite/Views/Books/BookDet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2ViU2l0ZVxWaWV3c1xCb29rc1xCb29rRGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Areas/WebSite/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2ViU2l0ZVxWaWV3c1xCb29rc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Areas/WebSite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2ViU2l0ZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Areas/WebSite/Views/Layout/WebsiteLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2ViU2l0ZVxWaWV3c1xMYXlvdXRcV2Vic2l0ZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Areas/WebSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2ViU2l0ZVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrator/Desktop/Sharp_Academy/Ahmed Elgendy/Project/CMSProject/CMSProjectPL/Views/Home/Index.cshtml]

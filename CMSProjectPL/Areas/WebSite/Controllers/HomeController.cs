@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CMSProjectPL.Controllers
+namespace CMSProjectPL.Areas.WebSite.Controllers
 {
-    public class DepartmentController : Controller
+    public class HomeController : Controller
     {
+        [Area("WebSite")]
         public IActionResult Index()
         {
             return View();
